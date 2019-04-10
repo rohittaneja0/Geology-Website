@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://ksr-ugc.imgix.net/assets/012/397/427/5921f33c009df26eca57247d906cb43c_original.jpg?ixlib=rb-1.1.0&crop=faces&w=1552&h=873&fit=crop&v=1463759045&auto=format&frame=1&q=92&s=dc3cb977dd994e40b9776bf1d62c7429") ;
+  
+}  
+
+div{
+    margin: 20px auto;
+}
+
+.jumbotron {
+    opacity: 0.8;
+
+}
+
+.navbar{
+    width: 20px 20px 20px 20px;
+    padding: 0px; 
+}
