@@ -1,7 +1,6 @@
-/* body {
-    background-image: url("https://ksr-ugc.imgix.net/assets/012/397/427/5921f33c009df26eca57247d906cb43c_original.jpg?ixlib=rb-1.1.0&crop=faces&w=1552&h=873&fit=crop&v=1463759045&auto=format&frame=1&q=92&s=dc3cb977dd994e40b9776bf1d62c7429") ;
-  
-}   */
+body {
+    background-color: black;
+}  
 
 div{
     margin: 20px auto;
@@ -28,4 +27,79 @@ h3{
     width: 33.33%;
     padding: 20px;
     height: 300px;
+}
+
+#parallax-1{
+    background: url("https://news.nationalgeographic.com/content/dam/news/2015/04/26/nepalday2/01nepalday2.ngsversion.1462361440488.adapt.1900.1.jpg") no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 75%;
+    color: white;
+    padding: 30px;
+}
+
+#parallax-2{
+    background: url("https://cdn.theatlantic.com/assets/media/img/photo/2015/04/nepal-after-the-earthquake/n09_471071778/main_900.jpg") no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 75%;
+    color: white;
+    padding: 30px;
+}
+
+#parallax-3{
+    background: url("https://www.directrelief.org/wp-content/uploads/IMG-20150429-WA0003-1-1.jpg") no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 75%;
+    color: white;
+    padding: 30px;
+}
+
+#parallax-4{
+    background: url("https://cdn.cnn.com/cnnnext/dam/assets/150427103509-13-nepal-quake-0427-super-169.jpg") no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 75%;
+    height: 500px;
+    color: white;
+    padding: 30px;
+}
+
+#parallax-5{
+    background: url("https://www.maciejdakowicz.com/wp-content/gallery/nepal-kathmandu-earthquake-2015/nepal_kathmandu_durbar_square_earthquake_disaster_damage_ruins.jpg") no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 75%;
+    color: white;
+    padding: 30px;
+}
+
+#parallax-6{
+    background: url("https://geographical.co.uk/media/k2/items/cache/9d420ea9134f51f1b7d6e409defa19a0_XL.jpg") no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 75%;
+    color: white;
+    padding: 30px;
+}
+
+#parallax-7{
+    background: url("https://fatfacefoundation.org/perch/resources/nepal-2.jpg") no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 75%;
+    color: white;
+    padding: 30px;
+}
+
+ul{
+    font-size: 25px;
+    padding: 45px 145px;
 }
